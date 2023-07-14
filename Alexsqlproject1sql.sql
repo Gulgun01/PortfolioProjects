@@ -14,7 +14,7 @@ order by 1,2
 
 Select Location, date, total_cases,total_deaths, (total_deaths/total_cases)*100 as DeathPercentage
 From PortfolioProject..CovidDeaths
-Where location like 'Azerbaijan'
+Where location like 'Turkey'
 and continent is not null 
 order by 1,2
 
@@ -22,7 +22,7 @@ order by 1,2
 -- Shows what percentage of population infected with Covid
 Select Location, date, total_cases,population, (total_cases/population)*100 as PercentPopulationInfected
 From PortfolioProject..CovidDeaths
-Where location like 'Azerbaijan'
+Where location like 'Turkey'
 and continent is not null 
 order by 1,2
 
@@ -34,7 +34,7 @@ order by PercentPopulationInfected desc
 --Azerbaijan has the highest infection rate compared to its population
 Select Location, Population, MAX(total_cases) as HighestInfectionCount,  Max((total_cases/population))*100 as PercentPopulationInfected
 From PortfolioProject..CovidDeaths
-Where location like 'Azerbaijan'
+Where location like 'Turkey'
 Group by Location, Population
 order by PercentPopulationInfected desc
 ---- Countries with Highest Death Count per Population
