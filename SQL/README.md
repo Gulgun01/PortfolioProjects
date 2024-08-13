@@ -1,4 +1,3 @@
-Here's a revised version of the `README.md` for your GitHub project without explicitly mentioning the SQL code:
 
 ---
 
@@ -32,8 +31,6 @@ The dataset used in this project is `BankChurners.csv`. It contains customer dat
 - `Total_Trans_Ct`: Total transaction count
 - `Total_Ct_Chng_Q4_Q1`: Total count change from Q4 to Q1
 - `Avg_Utilization_Ratio`: Average utilization ratio
-- `Naive_Bayes_Classifier_Attrition_Flag_Card_Category_Contacts_Count_12_mon_Dependent_count_Education_Level_Months_Inactive_12_mon_1`: Naive Bayes Classifier for Attrition Flag
-- `Naive_Bayes_Classifier_Attrition_Flag_Card_Category_Contacts_Count_12_mon_Dependent_count_Education_Level_Months_Inactive_12_mon_2`: Naive Bayes Classifier for Attrition Flag
 
 ## Analysis
 The analysis involves calculating various KPIs and solving problem statements to extract meaningful insights from the data. The following are some of the key analyses performed:
@@ -59,34 +56,19 @@ The analysis involves calculating various KPIs and solving problem statements to
 10. **Number of Customers by Inactive Months**: Counting the number of customers for each unique value of months inactive in the last 12 months.
 11. **Attrition Flag for Zero Inactive Months**: Identifying the attrition flag for customers who have zero inactive months in the last 12 months.
 12. **Income Category and Gender Distribution**: Calculating the percentage distribution of customers based on their income category and gender.
+13. 
 
 ## Power BI Dashboard
 A Power BI dashboard has been created to visualize the insights derived from the dataset. The dashboard includes interactive charts and graphs to provide a comprehensive view of the data analysis.
 
-## Getting Started
-To get started with this project, follow the instructions below:
 
-1. Clone this repository to your local machine.
-   ```sh
-   git clone https://github.com/yourusername/bank-churners-analysis.git
-   ```
 
-2. Open the SQL scripts provided in the `sql/` directory to understand and execute the queries on your database.
 
-3. Load the `BankChurners.csv` dataset into your SQL database.
-
-4. Explore the Power BI dashboard by opening the `.pbix` file in Power BI Desktop.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
 
 ## Acknowledgments
 - [Original Dataset](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
-- All the open-source contributors whose work made this project possible.
+
 
 ---
 
-Replace the placeholder URL with your actual GitHub repository link and ensure the file paths and names are correctly referenced based on your project's structure.
+
