@@ -56,7 +56,7 @@ The analysis involves calculating various KPIs and solving problem statements to
 10. **Number of Customers by Inactive Months**: Counting the number of customers for each unique value of months inactive in the last 12 months.
 11. **Attrition Flag for Zero Inactive Months**: Identifying the attrition flag for customers who have zero inactive months in the last 12 months.
 12. **Income Category and Gender Distribution**: Calculating the percentage distribution of customers based on their income category and gender.
-13. 
+
 
 ## Power BI Dashboard
 A Power BI dashboard has been created to visualize the insights derived from the dataset. The dashboard includes interactive charts and graphs to provide a comprehensive view of the data analysis.
