@@ -62,11 +62,12 @@ The analysis involves calculating various KPIs and solving problem statements to
 A Power BI dashboard has been created to visualize the insights derived from the dataset. The dashboard includes interactive charts and graphs to provide a comprehensive view of the data analysis.
 
 
-
-
-
 ## Acknowledgments
 - [Original Dataset](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
+
+## Contact
+
+For any questions or suggestions, please contact [Gulgun Mehdiyeva](mailto:gulgunmehdiyeva2001@gmail.com).
 
 
 ---
