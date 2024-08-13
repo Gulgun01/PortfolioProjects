@@ -80,8 +80,8 @@ The datasets were obtained from Yahoo Finance using an API.
 | Date       | Open | High | Low | Close | Volume     | Dividends | Stock Splits |
 | ---------- | ---- | ---- | --- | ----- | ---------- | --------- | ------------- |
 | 2014-01-02 | 17   | 17   | 17  | 17    | 234684800  | 0         | 0             |
-| 2024-07-22 | 227  | 228  | 223 | 224   | 48201800   | 0         | 0             |
-
+| 2024-08-02 | 219  | 226  | 218 | 220   | 105568600  | 0         | 0             |
+       
 ### Methodology
 
 - **Data Cleaning**: Processed the data to remove any inconsistencies or missing values.
