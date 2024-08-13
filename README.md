@@ -26,17 +26,16 @@ A comprehensive analysis of Apple stock market anayisis to understand how affetc
 
 ## Example Dashboards and Reports
 
-You will find links to the dashboards and reports I have created using various tools such as Power BI and Excel. These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision-makers to understand the insights and take action.
+You will find links to the dashboards and reports I have created using   Power BI . These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision-makers to understand the insights and take action.
 
-### Power BI Dashboards
+### Power BI Dashboard
 - [Bank Churners Analysis Dashboard](#)
 
-### Excel Reports
-- [Financial Data Analysis Report](#)
+
 
 ## Programming Projects
 
-In addition to my work in data visualization tools, I have also included my work in programming languages such as Python and SQL. These projects showcase my ability to extract valuable insights from large and complex datasets, and to combine data from multiple sources to create a comprehensive view of the data.
+In addition to my work in data visualization tool, I have also included my work in programming languages such as Python and SQL. These projects showcase my ability to extract valuable insights from large and complex datasets, and to combine data from multiple sources to create a comprehensive view of the data.
 
 ### Python Projects
 - [Stock Price Prediction](#)
@@ -47,7 +46,7 @@ In addition to my work in data visualization tools, I have also included my work
 
 ## Critical Thinking and Problem-Solving
 
-In addition to my technical skills, I also pride myself on my critical thinking and problem-solving abilities. I am able to approach data analysis with a strategic mindset, identifying key issues and opportunities in the data. My experience in accounting and economics has given me a strong foundation for understanding and analyzing financial data, making me well-equipped to tackle complex data problems.
+In addition to my technical skills, I also pride myself on my critical thinking and problem-solving abilities. I am able to approach data analysis with a strategic mindset, identifying key issues and opportunities in the data. My experience in accounting  has given me a strong foundation for understanding and analyzing financial data, making me well-equipped to tackle complex data problems.
 
 ## Contact
 
