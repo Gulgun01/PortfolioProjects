@@ -38,8 +38,8 @@ You will find links to the dashboards and reports I have created using   Power B
 In addition to my work in data visualization tool, I have also included my work in programming languages such as Python and SQL. These projects showcase my ability to extract valuable insights from large and complex datasets, and to combine data from multiple sources to create a comprehensive view of the data.
 
 ### Python Projects
-- [TOP 10 comapnies](python/Untitled1.ipynb#)
-- [Apple Stock market](#)
+- [TOP 10 companies](python/Untitled1.ipynb#)
+- [Apple Stock market](python/Untitled2.ipynb#)
 
 ### SQL Projects
 - [Bank Churners Analysis](#)
