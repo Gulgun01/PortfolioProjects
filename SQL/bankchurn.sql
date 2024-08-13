@@ -21,6 +21,8 @@ SELECT  [CLIENTNUM]
       ,[Total_Ct_Chng_Q4_Q1]
       ,[Avg_Utilization_Ratio]
   FROM [PortfolioProject].[dbo].[BankChurners ]
+
+	
 --KPI
 --Total Number of  Customer
 select distinct count(CLIENTNUM)  as Total_Number_of_Customer from [PortfolioProject].[dbo].[BankChurners ]
