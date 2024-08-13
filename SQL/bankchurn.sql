@@ -1,5 +1,26 @@
-
-
+--Select the all columns from the BankChurners table in the PortfolioProject database
+SELECT  [CLIENTNUM]
+      ,[Attrition_Flag]
+      ,[Customer_Age]
+      ,[Gender]
+      ,[Dependent_count]
+      ,[Education_Level]
+      ,[Marital_Status]
+      ,[Income_Category]
+      ,[Card_Category]
+      ,[Months_on_book]
+      ,[Total_Relationship_Count]
+      ,[Months_Inactive_12_mon]
+      ,[Contacts_Count_12_mon]
+      ,[Credit_Limit]
+      ,[Total_Revolving_Bal]
+      ,[Avg_Open_To_Buy]
+      ,[Total_Amt_Chng_Q4_Q1]
+      ,[Total_Trans_Amt]
+      ,[Total_Trans_Ct]
+      ,[Total_Ct_Chng_Q4_Q1]
+      ,[Avg_Utilization_Ratio]
+  FROM [PortfolioProject].[dbo].[BankChurners ]
 --KPI
 --Total Number of  Customer
 select distinct count(CLIENTNUM)  as Total_Number_of_Customer from [PortfolioProject].[dbo].[BankChurners ]
