@@ -28,7 +28,7 @@ The Bank Customer Churn Dashboard provides valuable insights into the factors af
 
 ## Contact
 
-For any questions or suggestions, please contact [gulgunmehdiyeva2001@gmail.com](mailto:gulgunmehdiyeva2001@gmail.com).
+For any questions or suggestions, please contact [Gulgun Mehdiyeva](mailto:gulgunmehdiyeva2001@gmail.com).
 
 ---
 
