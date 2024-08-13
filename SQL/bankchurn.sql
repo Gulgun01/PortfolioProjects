@@ -36,7 +36,7 @@ select Education_Level ,sum(Total_Trans_Ct) as Total_Tansaction_Count  from [Por
 group by  Education_Level
 
 
--- the count and percentage of credit card holders with a distribution of income levels 
+-- the count and percentage of credit card holders with a distribution ofÂ incomeÂ levels 
 SELECT Income_Category, 
        COUNT(*) AS credit_card_holders,
        ROUND((COUNT(*) * 100.0 / (SELECT COUNT(*) FROM [PortfolioProject].[dbo].[BankChurners])), 2) AS percentage
@@ -65,7 +65,7 @@ GROUP BY
 select 100.0*sum (case when Gender='F'  then 1 else 0 end )/count(Gender) as FemalePercentage from [PortfolioProject].[dbo].[BankChurners ]
 where Credit_Limit > 8631.95
  
- --Compare the average 'Credit_Limit' values of married and single customers and calculate the differences
+ --Compare the average 'Credit_Limit' values of married and single customers and calculateÂ theÂ differences
 SELECT cast(
     (SELECT AVG(Credit_Limit) FROM [PortfolioProject].[dbo].[BankChurners ] WHERE Marital_Status = 'Single') -
 
