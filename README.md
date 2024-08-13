@@ -41,8 +41,11 @@ In addition to my work in data visualization tool, I have also included my work 
 - [TOP 10 companies](python/Untitled1.ipynb#)
 - [Apple Stock market](python/Untitled2.ipynb#)
 
-### SQL Projects
-- [Bank Churners Analysis](#)
+### SQL Project
+- [Bank Churners Analysis](SQL/bankchurn.sql#)
+
+### Power BI  Project
+- [Bank Churners Analysis](SQL/bankchurn.sql#)
 
 ## Critical Thinking and Problem-Solving
 
