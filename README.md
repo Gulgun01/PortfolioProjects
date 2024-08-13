@@ -2,7 +2,7 @@
 
 Welcome to my Data Analyst Portfolio!
 
-I am a data analyst with a strong background in accounting and economics, combined with experience in utilizing various tools and technologies to collect, organize, and analyze data to inform business decisions. I am proficient in Python, SQL, Power BI, and Excel, and have a solid understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, statistics, and critical thinking.
+I am a data analyst with a strong background in accounting and economics, combined with experience in utilizing various tools and technologies to collect, organize, and analyze data to inform business decisions. I am proficient in R, Python, SQL, Power BI, and Excel, and have a solid understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, statistics, and critical thinking.
 
 ## Projects Included
 
@@ -12,15 +12,15 @@ In this portfolio, I have included a variety of projects that showcase my data a
 This project analyzes the Bank Churners dataset to derive key performance indicators (KPIs), solve problem statements, and extract insights using SQL queries. Additionally, a Power BI dashboard has been created to visualize the findings.
 
 ### Financial Data Analysis
-A comprehensive analysis of financial data involving stock price prediction, net income analysis, and other financial metrics to identify trends and insights. This project includes work in Python for data cleaning, manipulation, and visualization.
+A comprehensive analysis of top 10 technology companies  net income analysis to understand after covid 19 which companies had graet net incmoe. This project includes work in Python for data cleaning, manipulation, and visualization.
 
-### Customer Segmentation
-Using clustering techniques to segment customers based on their purchasing behavior. This project involves extensive use of Python and SQL to process and analyze large datasets, with visualizations created in Power BI.
+### Apple Stock market Analysis
+A comprehensive analysis of Apple stock market anayisis to understand how affetced covod 19 to closisng prices ofApple stock market closing prices. his project includes work in Python for data cleaning, manipulation, and visualization.
 
 ## Technical Skills
 
 - **Programming Languages**: Python, SQL
-- **Data Visualization**: Power BI, Excel
+- **Data Visualization**: Power BI 
 - **Data Analysis Techniques**: Dashboard building, report writing, data mining, data merging, statistics, critical thinking
 - **Tools**: SQL Server, Jupyter Notebooks, Pandas, NumPy, Matplotlib, Seaborn
 
