@@ -100,7 +100,7 @@ The datasets were obtained from Yahoo Finance using an API.
 
 ## Contact
 
-For any questions or suggestions, please contact [Gulgun Mehdiyeva](mailto:gulgunmehdiyeva2001@gmail.com).
+For any questions or suggestions, please contact [Gulgun Mehdiyeva](mailto:julie.mehdiyeva@gmail.com).
 
 ---
 
